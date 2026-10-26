@@ -4,6 +4,8 @@
 
 <!--мср3: https://docs.google.com/forms/d/e/1FAIpQLSduSWFeSLikSVVf6glfQC48CFKeBhuJzrR_oXOXqvfxFH3tMg/viewform?usp=dialog-->
 
+<!--мср4: -->
+
 Репозиторий курса "Машинное обучение".
 
 ## Команда курса
