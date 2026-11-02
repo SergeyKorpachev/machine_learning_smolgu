@@ -4,7 +4,7 @@
 
 <!--мср3: https://docs.google.com/forms/d/e/1FAIpQLSduSWFeSLikSVVf6glfQC48CFKeBhuJzrR_oXOXqvfxFH3tMg/viewform?usp=dialog-->
 
-<!--мср4: -->
+<!--мср4: https://docs.google.com/forms/d/e/1FAIpQLSeT3q_h_JAYtYu6K5jl5m0WGc7gNxiY9Ccm7PVNulRTwXYOdw/viewform?usp=dialog-->
 
 # Репозиторий курса "Машинное обучение".
 
