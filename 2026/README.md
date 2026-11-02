@@ -27,7 +27,7 @@
 | Номер дз  | Дедлайн          | Ссылка                                                                                                           |
 | --------- | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 1         | 01.11.2026 23:59 | https://github.com/SergeyKorpachev/machine_learning_smolgu/blob/main/2026/Homework/homework01/homework01_knn_linreg.ipynb       |
-| 2         | ??.??.2026 23:59 | ????? |
+| 2         | 15.11.2026 23:59 | https://github.com/SergeyKorpachev/machine_learning_smolgu/blob/main/2026/Homework/homework02/homework02_logreg_svm_texts.ipynb |
 | 3         | ??.??.2026 23:59 | ?????      |
 | 4         | ??.??.2026 23:59 | ?????         |
 
