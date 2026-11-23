@@ -28,7 +28,7 @@
 | --------- | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 1         | 01.11.2026 23:59 | https://github.com/SergeyKorpachev/machine_learning_smolgu/blob/main/2026/Homework/homework01/homework01_knn_linreg.ipynb       |
 | 2         | 22.11.2026 23:59 | https://github.com/SergeyKorpachev/machine_learning_smolgu/blob/main/2026/Homework/homework02/homework02_logreg_svm_texts.ipynb |
-| 3         | ??.??.2026 23:59 | ?????      |
+| 3         | 06.12.2026 23:59 | https://github.com/SergeyKorpachev/machine_learning_smolgu/blob/main/2026/Homework/homework03/homework03_trees_rf.ipynb      |
 | 4         | ??.??.2026 23:59 | ?????         |
 
 ## Формула оценивания
